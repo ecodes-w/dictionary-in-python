@@ -1,21 +1,6 @@
 # Lab Instructions: Mapping key-values to Dictionary data structures 
 
-So far you have learned that Python has different techniques to modify a given iterator sequence such as list or dictionary using comprehensions,  
-map() function and so on. Now you will be utilising what you have learned. Let’s say you have a list of employee data for the Little Lemon company.  
-You want to create login accounts for the employees and you will create usernames for these employees in the first example. 
 
-You also want to update the roster for these employees on the calendar and want easy access to their initials and employee IDs, as they are all unique.  
-To get that, in the second example, you will create a dictionary with the required information. 
-<br><br>
-
-> ### **Tips: Before you Begin**
-> #### **To view your code and instructions side-by-side**, select the following in your VSCode toolbar:
-> - View -> Editor Layout -> Two Columns
-> - To view this file in Preview mode, right click on this README.md file and `Open Preview`
-> - Select your code file in the code tree, which will open it up in a new VSCode tab.
-> - Drag your assessment code files over to the second column. 
-> - Great work! You can now see instructions and code at the same time. 
-> - Questions about using VSCode? Please see our support resources [here](https://www.coursera.org/learn/programming-in-python/supplement/2IEyt/visual-studio-code-on-coursera).
 > #### **To run your Python code**
 > - Select your Python file in the Visual Studio Code file tree 
 > - You can right click the file and select "Run Python File in Terminal" 
@@ -56,11 +41,4 @@ first letter of an employee's name and the value is the employee's ID.<br><br>
 <br>
 
 
-## Final Step: Let's submit your code!
-Nice work! To complete this assessment:
-- Save your file through File -> Save 
-- Select "Submit Assignment" in your Lab toolbar. 
 
-Your code will be autograded and return feedback shortly on the "Grades" tab.  
-You can also see your score in your Programming Assignment "My Submission" tab.
-<br> <br> 
